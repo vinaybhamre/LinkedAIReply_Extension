@@ -22,7 +22,12 @@ For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
 ![count btn on linkedin](count_btn_on_linkedin.png)
 
-![Demo Video](AssignmentDemoVideo.mp4)
+
+
+https://github.com/vinaybhamre/LinkedAIReply_Extension/assets/55195849/f695144c-da22-4c12-b6c2-5d1d2786e133
+
+
+
 
 ## Making production build
 
