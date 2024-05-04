@@ -22,6 +22,8 @@ For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
 ![count btn on linkedin](count_btn_on_linkedin.png)
 
+![Demo Video](AssignmentDemoVideo.mp4)
+
 ## Making production build
 
 Run the following:
